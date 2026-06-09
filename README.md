@@ -2,7 +2,7 @@
 
 Esse projeto nasceu de uma necessidade simples: eu queria entender na prática como funciona uma API REST do zero — autenticação, banco de dados, validação, tudo junto. Então resolvi construir um gerenciador de despesas pessoais, que é um problema real e que qualquer pessoa entende.
 
-É um projeto de estudo, mas feito com cuidado. Cada parte foi pensada para refletir como as coisas funcionam no mundo real.
+É um projeto de estudo, mas feito com cuidado. 
 
 ---
 
